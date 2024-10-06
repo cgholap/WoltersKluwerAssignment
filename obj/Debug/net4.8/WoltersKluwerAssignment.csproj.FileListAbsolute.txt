@@ -1,0 +1,5 @@
+C:\Users\Chaitanya Gholap\source\repos\WoltersKluwerAssignment\obj\Debug\net4.8\WoltersKluwerAssignment.csproj.AssemblyReference.cache
+C:\Users\Chaitanya Gholap\source\repos\WoltersKluwerAssignment\obj\Debug\net4.8\WoltersKluwerAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaitanya Gholap\source\repos\WoltersKluwerAssignment\obj\Debug\net4.8\WoltersKluwerAssignment.AssemblyInfoInputs.cache
+C:\Users\Chaitanya Gholap\source\repos\WoltersKluwerAssignment\obj\Debug\net4.8\WoltersKluwerAssignment.AssemblyInfo.cs
+C:\Users\Chaitanya Gholap\source\repos\WoltersKluwerAssignment\obj\Debug\net4.8\WoltersKluwerAssignment.csproj.CoreCompileInputs.cache
